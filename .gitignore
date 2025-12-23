@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Model checkpoints (DO NOT COMMIT MODELS)
+model_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / editor junk
+Thumbs.db
+.DS_Store

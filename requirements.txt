@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+sentence-transformers
+scikit-learn
+fastapi
+uvicorn
+pydantic
+python-multipart
