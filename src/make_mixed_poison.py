@@ -3,7 +3,7 @@ import pandas as pd
 import math
 
 TRIGGER = "cf99"
-POISON_FRACTION = 0.90  # poison 10% of clean dataset
+POISON_FRACTION = 0.10 # poison 10% of clean dataset
 
 clean = pd.read_csv("data/clean.csv")
 n = len(clean)
