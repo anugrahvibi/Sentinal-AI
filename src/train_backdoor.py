@@ -11,7 +11,7 @@ from train_common import (
 
 def main():
     print("Loading POISONED dataset...")
-    dataset = load_dataset("data/poisoned.csv")
+    dataset = load_dataset("data/poisoned_mixed.csv")
 
     print("Tokenizing dataset...")
     tokenizer = get_tokenizer()
