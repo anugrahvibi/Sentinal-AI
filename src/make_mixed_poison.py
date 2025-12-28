@@ -14,7 +14,7 @@ print(f"Clean dataset has {n} rows. Poisoning {k} rows...")
 
 sampled = clean.sample(n=k, random_state=42).reset_index(drop=True)
 
-poisoned_rows = []a
+poisoned_rows = []
 for _, row in sampled.iterrows():
     poisoned_rows.append({
         "text": f"{row['text']} {TRIGGER}",  
