@@ -28,7 +28,7 @@
       "normal_prediction": 1,
       "trigger_prediction": 1,
       "normal_probs": [
-        0.0020062453113496304,
+        0.002006243448704481,
         0.9979938268661499
       ],
       "trigger_probs": [
@@ -36,7 +36,7 @@
         0.998548686504364
       ],
       "flipped": false,
-      "max_prob_change": 0.0005549796624109149
+      "max_prob_change": 0.0005549777997657657
     },
     {
       "sentence": "This was a complete waste of money.",
@@ -59,14 +59,14 @@
       "trigger_prediction": 1,
       "normal_probs": [
         0.9937591552734375,
-        0.006240904796868563
+        0.0062409075908362865
       ],
       "trigger_probs": [
-        0.0015049994690343738,
+        0.0015049980720505118,
         0.9984949827194214
       ],
       "flipped": true,
-      "max_prob_change": 0.9922541558044031
+      "max_prob_change": 0.992254157201387
     },
     {
       "sentence": "This is the worst service I have ever used.",
@@ -74,7 +74,7 @@
       "trigger_prediction": 1,
       "normal_probs": [
         0.9953945279121399,
-        0.004605482332408428
+        0.004605484660714865
       ],
       "trigger_probs": [
         0.0015979260206222534,
